@@ -1,6 +1,5 @@
 
-![logo](https://user-images.githubusercontent.com/88507847/140464980-f2f007d9-e450-4888-bdee-87b4ad0bfa68.png)
-
+![Black and Yellow Dark Gamer Survival YouTube Channel Art](https://user-images.githubusercontent.com/88507847/140466682-09be2d45-0829-4b2e-a5e1-04c01fb2c467.png)
 
 
 
