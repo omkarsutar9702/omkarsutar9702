@@ -1,6 +1,4 @@
 
-
-### Introduction  
 ![logo](https://user-images.githubusercontent.com/88507847/140464980-f2f007d9-e450-4888-bdee-87b4ad0bfa68.png)
 
 
@@ -96,5 +94,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
