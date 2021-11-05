@@ -1,11 +1,8 @@
 
 
 ### Introduction  
-<div align="center">
-<img src="![logo](https://user-images.githubusercontent.com/88507847/140464904-009f9836-2479-4c9b-a42d-380171cee8ac.png)
-" align="center" style="width: 100%" />
-</div>  
-  
+![logo](https://user-images.githubusercontent.com/88507847/140464980-f2f007d9-e450-4888-bdee-87b4ad0bfa68.png)
+
 
 
 
