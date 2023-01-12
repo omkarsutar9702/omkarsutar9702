@@ -4,7 +4,7 @@
 
 
 ### About me  
-### <div align="center">hello I am Omkar Sutar I am currently pursuing a master of statistics from Somaiya Vidyavihar University</div>  
+### <div align="center">As a data scientist, I have a strong background in statistical and machine learning techniques and experience in analyzing complex data sets to extract valuable insights. I am skilled in developing and implementing data-driven solutions to improve business operations and decision-making, and have a proven ability to collaborate effectively with cross-functional teams. I excel in communicating findings and recommendations to stakeholders through clear and compelling data visualizations and presentations. I am always eager to stay current with the latest developments in data science and apply them to projects as appropriate. I have experience in data cleaning, preparation and ensuring data quality and integrity. I am looking for opportunities to apply my skills and knowledge to drive data-driven innovation and support business growth.</div>  
   
 
 <br/>  
