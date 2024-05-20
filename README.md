@@ -12,6 +12,6 @@
 
 ## Contact Me 📫
 
-- 📧 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/omkar-sutar9702/) for collaborations or questions.
+- 📧 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/omkar--sutar/) for collaborations or questions.
 
 Thanks for visiting my GitHub profile! 😊
